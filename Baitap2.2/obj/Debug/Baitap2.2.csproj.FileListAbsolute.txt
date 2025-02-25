@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\obj\Debug\Baitap2.2.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\obj\Debug\Baitap2.2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\bin\Debug\Baitap2.2.exe.config
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\bin\Debug\Baitap2.2.exe
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\bin\Debug\Baitap2.2.pdb
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\obj\Debug\Baitap2.2.exe
+C:\Users\admin\Documents\UEH\Freshmen - Period 2\Data Structures and Algorithms_Đặng Ngọc Hoàng Thành\Tasks\Baitap2.2\Baitap2.2\obj\Debug\Baitap2.2.pdb
